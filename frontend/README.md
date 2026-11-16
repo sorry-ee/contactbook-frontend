@@ -1,6 +1,6 @@
 # Soul · 通讯录前端
 
-当前公网应用：https://zhijiao-contactbook-sorryee.equal-cup-7231.chatgpt.site
+当前公网应用：https://soul.hmlin-2028.workers.dev/
 
 原生 HTML/CSS/JavaScript，支持联系人 CRUD、收藏、搜索、多联系方式，以及 SheetJS 0.20.3 Excel 导入导出。
 
