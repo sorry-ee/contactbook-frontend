@@ -2,7 +2,7 @@
 
 联系人管理页面，支持收藏、搜索、多联系方式和 Excel 导入导出。
 
-- [在线应用](https://zhijiao-contactbook-sorryee.equal-cup-7231.chatgpt.site)
+- [在线应用](https://soul.hmlin-2028.workers.dev/)
 - [前端源码](frontend/)
 - [代码规范](frontend/CODING_STANDARDS.md)
 - [后端及本地运行说明](https://github.com/sorry-ee/contactbook-backend)
